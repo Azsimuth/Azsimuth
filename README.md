@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Azsimuth
 - 👀 I’m interested in Game making
 - 🌱 I’m currently learning GML
-- 💞️ I’m looking to collaborate on nothing
+- 💞️ I’m looking to collaborate on i'm bat ad collaborating
 - 📫 How to reach me: https://linktr.ee/azsimuth
 
 <!---
