@@ -1,9 +1,7 @@
-- 👋 Hi, I’m @Azsimuth
-- 👀 I’m interested in Game making
-- 🌱 I’m currently learning GML, Python
--  💞️ I’m looking to collaborate on i'm bad at collaborating
+> Hello!
+I'm a student, who likes to do a lot of things. This involves, but not limited to:
 
-<!---
-Azsimuth/Azsimuth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- sometimes making games
+- drawing
+- writing peoms
+- editing videos
