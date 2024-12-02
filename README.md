@@ -1,4 +1,4 @@
-## Hello, my name is Azimuth!
+## Hello, I am @azsimuth!
 I'm a student, who likes to do a lot of things. This involves, but not limited to:
 
 - sometimes making games 🎮
